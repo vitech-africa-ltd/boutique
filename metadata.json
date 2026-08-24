@@ -1,0 +1,14 @@
+{
+  "name": "Global Boutique Manager",
+  "description": "Professional ERP solution for Point of Sale and Inventory management, designed for modern businesses worldwide with full offline support.",
+  "requestFramePermissions": [],
+  "majorCapabilities": [
+    "MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API",
+    "offline_support",
+    "pos",
+    "inventory_management",
+    "audit_logging",
+    "hrm"
+  ]
+}
+
